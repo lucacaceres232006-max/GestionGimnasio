@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyectoFinalEq37_VF" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyectoFinalEq31_v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyectoFinalEq31_v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Clase.cpp" />
+		<Unit filename="Clase.h" />
+		<Unit filename="ClaseArchivo.cpp" />
+		<Unit filename="ClaseArchivo.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Ingreso.cpp" />
+		<Unit filename="Ingreso.h" />
+		<Unit filename="IngresoArchivo.cpp" />
+		<Unit filename="IngresoArchivo.h" />
+		<Unit filename="Inscripcion.cpp" />
+		<Unit filename="Inscripcion.h" />
+		<Unit filename="InscripcionArchivo.cpp" />
+		<Unit filename="InscripcionArchivo.h" />
+		<Unit filename="Instructores.cpp" />
+		<Unit filename="Instructores.h" />
+		<Unit filename="InstructoresArchivo.cpp" />
+		<Unit filename="InstructoresArchivo.h" />
+		<Unit filename="Membresias.cpp" />
+		<Unit filename="Membresias.h" />
+		<Unit filename="MembresiasArchivo.cpp" />
+		<Unit filename="MembresiasArchivo.h" />
+		<Unit filename="Pago.cpp" />
+		<Unit filename="Pago.h" />
+		<Unit filename="PagoArchivo.cpp" />
+		<Unit filename="PagoArchivo.h" />
+		<Unit filename="Personas.cpp" />
+		<Unit filename="Personas.h" />
+		<Unit filename="Rutina.cpp" />
+		<Unit filename="Rutina.h" />
+		<Unit filename="RutinaArchivo.cpp" />
+		<Unit filename="RutinaArchivo.h" />
+		<Unit filename="SocioArchivo.cpp" />
+		<Unit filename="SocioArchivo.h" />
+		<Unit filename="Socios.cpp" />
+		<Unit filename="Socios.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

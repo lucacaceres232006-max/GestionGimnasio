@@ -1,0 +1,2684 @@
+# depslib dependency file v1.0
+1584205420 source:d:\datos\escritorio\programacion_2\ejercicios2026\cursada_2026_1er_cuatri\poo\metodos_constructores\proyectofinaleq31_v1\main.cpp
+	<iostream>
+
+1780103436 source:d:\datos\escritorio\programacion_2\ejercicios2026\cursada_2026_1er_cuatri\poo\metodos_constructores\proyectofinaleq31_v1\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1780103407 d:\datos\escritorio\programacion_2\ejercicios2026\cursada_2026_1er_cuatri\poo\metodos_constructores\proyectofinaleq31_v1\fecha.h
+
+1780281825 source:c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1780281660 c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\fecha.h
+
+1780292812 source:c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\main.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1780292537 source:c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1780292973 c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\personas.h
+	"Fecha.h"
+
+1780293396 c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\socios.h
+	"Personas.h"
+
+1780293298 source:c:\users\usuario\onedrive\desktop\tp progra2\proyectofinaleq31_v1\proyectofinaleq31_v1\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1780363839 source:c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1780363839 c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\fecha.h
+
+1780363839 source:c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\main.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1780363839 c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\personas.h
+	"Fecha.h"
+
+1780363839 c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\socios.h
+	"Personas.h"
+
+1780363839 source:c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1780363839 source:c:\users\natal\downloads\proyectofinaleq31_v2\proyectofinaleq31_v1\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1780863191 source:c:\users\natal\downloads\proyectofinaleq31_v2\main.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1780503708 c:\users\natal\downloads\proyectofinaleq31_v2\personas.h
+	"Fecha.h"
+
+1780860136 c:\users\natal\downloads\proyectofinaleq31_v2\fecha.h
+
+1780519789 c:\users\natal\downloads\proyectofinaleq31_v2\socios.h
+	"Personas.h"
+
+1780861692 source:c:\users\natal\downloads\proyectofinaleq31_v2\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1780709792 source:c:\users\natal\downloads\proyectofinaleq31_v2\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1780861539 source:c:\users\natal\downloads\proyectofinaleq31_v2\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1780701444 source:c:\users\natal\downloads\proyectofinaleq31_v2\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1780700766 c:\users\natal\downloads\proyectofinaleq31_v2\socioarchivo.h
+	"Socios.h"
+
+1781191606 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\fecha.h
+
+1781191592 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\main.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\personas.h
+	"Fecha.h"
+
+1781211804 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\socios.h
+	"Personas.h"
+
+1781192628 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1781183692 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1781183692 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\socioarchivo.h
+	"Socios.h"
+
+1781188264 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1781183785 source:c:\users\natal\downloads\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781183785 c:\users\natal\downloads\rutina.h
+
+1781183785 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781183785 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\rutina.h
+
+1781184592 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781183785 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\ingreso.h
+	"Fecha.h"
+
+1781184636 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781183785 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\pago.h
+	"Fecha.h"
+
+1781205388 source:c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+
+1781205369 c:\users\natal\downloads\proyectofinaleq31_v4\proyectofinaleq31_v4\membresiasarchivo.h
+
+1781191606 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\fecha.h
+
+1781191592 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\main.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\personas.h
+	"Fecha.h"
+
+1781211804 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\socios.h
+	"Personas.h"
+
+1781745807 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+
+1781741991 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\membresiasarchivo.h
+	"Membresias.h"
+
+1781192628 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1781213169 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1781213943 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\socioarchivo.h
+	"Socios.h"
+
+1781188264 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1781741868 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1781741803 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\membresias.h
+
+1781742015 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\menu.cpp
+	<iostream>
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\ingreso.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\ingresoarchivo.h
+	"Ingreso.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\pago.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\pagoarchivo.h
+	"Pago.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\rutina.h
+	<cstring>
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v6\proyectofinaleq31_v6\rutinaarchivo.h
+	"Rutina.h"
+
+1781191606 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\fecha.h
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1781825951 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1781211804 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1781741868 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1781741803 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\membresias.h
+
+1781745807 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+
+1781741991 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1781192628 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1781975647 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1781972187 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1781975280 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1781825854 source:c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+
+1781214004 c:\users\natal\downloads\proyectofinaleq31_v7\proyectofinaleq31_v7\menu.h
+
+1782423365 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\fecha.h
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1781825951 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782516509 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\menu.h
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782494008 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782687431 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782689747 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\membresias.h
+
+1782691748 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782689514 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782691899 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+
+1782321471 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782334489 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782496837 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782494684 source:c:\users\natal\downloads\proyectofinaleq31_v7nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782423365 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\fecha.h
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1781825951 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782756396 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\menu.h
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782494008 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782687431 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782689747 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\membresias.h
+
+1782691748 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782689514 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782334489 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782762293 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782494684 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782762626 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+
+1782762594 source:c:\users\natal\downloads\proyectofinaleq31_v11nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782423365 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1781191474 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\fecha.h
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1781825951 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782756396 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\menu.h
+
+1781188198 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782494008 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782687431 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782689747 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\membresias.h
+
+1782691748 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782689514 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782334489 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782770466 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1781745574 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1781745574 c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782774216 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782494684 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782774006 source:c:\users\natal\downloads\proyectofinaleq31_v12nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.h
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782857787 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782857750 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.h
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.h
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782857976 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782857629 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782857880 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782857880 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782856045 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782856045 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782856598 source:c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782856598 c:\users\luca\downloads\proyectofinaleq31_v13nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.h
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782868345 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.h
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.h
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782862797 c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782862797 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782865779 source:c:\users\natal\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.h
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.h
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.h
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782912234 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782912234 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782912679 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782912679 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+
+1782912679 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782916686 source:c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782916642 c:\users\luca\downloads\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\fecha.h
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782935325 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.h
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresias.h
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782939391 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782927168 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782926709 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782939589 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782924869 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782925184 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782923019 c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782920432 source:c:\users\natal\downloads\proyectofinaleq31_ultversion\proyectofinaleq31_v14lucas\proyectofinaleq31_v14lucas\proyectofinaleq31_v14nati\proyectofinaleq31_v13nati\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782924869 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.h
+
+1782925184 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782920432 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782923019 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782920432 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782935325 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.h
+
+1782941613 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.h
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782949226 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1782949060 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782927168 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782917006 c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782926709 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782949334 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782917006 source:c:\users\natal\downloads\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782956411 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782952213 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782956600 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.h
+
+1782958934 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782957418 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782952213 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782952213 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782957333 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782952213 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782952213 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782952213 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782952213 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782952213 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782952213 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.h
+
+1782952215 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.h
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782957493 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1782952215 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782952215 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782952215 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782955717 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782952214 c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782952214 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782952215 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782952215 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782952215 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782952215 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782955717 source:c:\users\usuario\onedrive\desktop\pilates\modulo_3\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+	"Ingreso.h"
+
+1782965952 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782965952 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.h
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.h
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.h
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782965953 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782965953 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782966159 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1782966159 c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782966159 source:c:\users\luca\downloads\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.h
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.h
+
+1782996926 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.h
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1782998135 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1782994448 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1782997349 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+	"Socios.h"
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1782997335 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1782989063 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782989063 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782989063 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782989063 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1782995591 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1782996915 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (2) (2)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.h
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1783472553 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1782989062 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1782989062 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.h
+
+1783472634 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1783377311 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1783375826 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresias.h
+
+1782989063 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1783374829 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+	"SocioArchivo.h"
+	"Socios.h"
+
+1783472285 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1782994448 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1783463339 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1782989063 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1783464700 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1783464556 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1783469532 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1783535201 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+	"RutinaArchivo.h"
+
+1783472490 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+
+1783374200 c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1783378806 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1783375066 source:c:\users\natal\downloads\proyectofinaleq37_vfoficial (3)\proyectofinaleq37_vfoficial\proyectofinaleq37_versionfinal1\proyectofinaleq37_versionfinal\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\clase.h
+	"Fecha.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\fecha.h
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\clasearchivo.h
+	"Clase.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\inscripcion.h
+	"Fecha.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\ingreso.h
+	"Fecha.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\ingresoarchivo.h
+	"Ingreso.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\instructores.h
+	"Personas.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\personas.h
+	"Fecha.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\instructoresarchivo.h
+	"Instructores.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\menu.h
+
+1783626182 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\socios.h
+	"Personas.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\membresias.h
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\membresiasarchivo.h
+	"Membresias.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\pago.h
+	"Fecha.h"
+	"SocioArchivo.h"
+	"Socios.h"
+
+1783626182 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\socioarchivo.h
+	"Socios.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+
+1783626181 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\pagoarchivo.h
+	"Pago.h"
+
+1783626181 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1783626182 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1783626182 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\rutina.h
+	<cstring>
+
+1783626182 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1783626182 c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\rutinaarchivo.h
+	"Rutina.h"
+
+1783626182 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+
+1783626182 source:c:\users\usuario\downloads\proyectofinaleq37_voficial_1\proyectofinaleq37_voficial_1\proyectofinaleq31_v7\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+	"RutinaArchivo.h"
+
+1783723173 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1783719991 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\clase.h
+	"Fecha.h"
+
+1783706363 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\fecha.h
+
+1783724024 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1783698729 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\clasearchivo.h
+	"Clase.h"
+
+1783880505 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\inscripcion.h
+	"Fecha.h"
+
+1783706383 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\ingreso.h
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\ingresoarchivo.h
+	"Ingreso.h"
+
+1783877784 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1783880126 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1783698730 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\instructores.h
+	"Personas.h"
+
+1783708103 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\personas.h
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\instructoresarchivo.h
+	"Instructores.h"
+
+1783698730 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\menu.h
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\socios.h
+	"Personas.h"
+
+1783710371 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1783710413 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\membresias.h
+
+1783705575 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\membresiasarchivo.h
+	"Membresias.h"
+
+1784052050 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Membresias.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	<limits>
+
+1784051985 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\socioarchivo.h
+	"Socios.h"
+
+1783896832 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\rutina.h
+	<cstring>
+
+1783896832 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\rutinaarchivo.h
+	"Rutina.h"
+
+1783957040 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\pago.h
+	"Fecha.h"
+	"SocioArchivo.h"
+	"Socios.h"
+
+1783896832 c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\pagoarchivo.h
+	"Pago.h"
+
+1783958925 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1783953156 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+	"MembresiasArchivo.h"
+
+1783708125 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1783896832 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1783896832 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1784056823 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+	"Membresias.h"
+	"MembresiasArchivo.h"
+
+1784056142 source:c:\users\natal\downloads\proyectofinaleq37\proyectofinaleq37\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+	"RutinaArchivo.h"
+	"MembresiasArchivo.h"
+
+1783723173 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\clase.cpp
+	<iostream>
+	<cstring>
+	"Clase.h"
+
+1783719991 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\clase.h
+	"Fecha.h"
+
+1783706363 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\fecha.h
+
+1783724024 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\clasearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClaseArchivo.h"
+	"InscripcionArchivo.h"
+	"Inscripcion.h"
+
+1783698729 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\clasearchivo.h
+	"Clase.h"
+
+1783880505 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\inscripcionarchivo.h
+	"Inscripcion.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\inscripcion.h
+	"Fecha.h"
+
+1783706383 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\ingreso.h
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\ingresoarchivo.cpp
+	<iostream>
+	<cstring>
+	"IngresoArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\ingresoarchivo.h
+	"Ingreso.h"
+
+1783877784 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\inscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1783880126 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\inscripcionarchivo.cpp
+	<iostream>
+	<cstring>
+	"Inscripcion.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	"Clase.h"
+
+1783698730 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\instructores.cpp
+	<iostream>
+	"Instructores.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\instructores.h
+	"Personas.h"
+
+1783708103 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\personas.h
+	"Fecha.h"
+
+1783698730 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\instructoresarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"InstructoresArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\instructoresarchivo.h
+	"Instructores.h"
+
+1783698730 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\main.cpp
+	<iostream>
+	<cstring>
+	"menu.h"
+	"Personas.h"
+	"Fecha.h"
+	"Socios.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\menu.h
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\socios.h
+	"Personas.h"
+
+1783710371 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\membresias.cpp
+	<iostream>
+	<cstring>
+	"Membresias.h"
+
+1783710413 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\membresias.h
+
+1783705575 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\membresiasarchivo.cpp
+	<iostream>
+	"MembresiasArchivo.h"
+	"Socios.h"
+	<cstring>
+	"MembresiasArchivo.h"
+
+1783698730 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\membresiasarchivo.h
+	"Membresias.h"
+
+1784063654 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\menu.cpp
+	<iostream>
+	"menu.h"
+	"SocioArchivo.h"
+	"MembresiasArchivo.h"
+	"Membresias.h"
+	"Rutina.h"
+	"RutinaArchivo.h"
+	"Ingreso.h"
+	"IngresoArchivo.h"
+	"Pago.h"
+	"PagoArchivo.h"
+	"InscripcionArchivo.h"
+	"ClaseArchivo.h"
+	<limits>
+
+1784051985 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\socioarchivo.h
+	"Socios.h"
+
+1783896832 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\rutina.h
+	<cstring>
+
+1783896832 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\rutinaarchivo.h
+	"Rutina.h"
+
+1783957040 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\pago.h
+	"Fecha.h"
+	"SocioArchivo.h"
+	"Socios.h"
+
+1783896832 c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\pagoarchivo.h
+	"Pago.h"
+
+1783958925 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\pago.cpp
+	<iostream>
+	"Pago.h"
+
+1784062720 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\pagoarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"PagoArchivo.h"
+	"MembresiasArchivo.h"
+
+1783708125 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\personas.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"SocioArchivo.h"
+
+1783896832 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\rutina.cpp
+	<iostream>
+	<cstring>
+	"Rutina.h"
+
+1783896832 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\rutinaarchivo.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"RutinaArchivo.h"
+
+1784056823 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\socioarchivo.cpp
+	<iostream>
+	<cstring>
+	"SocioArchivo.h"
+	"Membresias.h"
+	"MembresiasArchivo.h"
+
+1784056142 source:c:\users\natal\downloads\proyectoeq37_final\proyectofinaleq37\socios.cpp
+	<iostream>
+	<cstring>
+	"Personas.h"
+	"Socios.h"
+	"RutinaArchivo.h"
+	"MembresiasArchivo.h"
+
